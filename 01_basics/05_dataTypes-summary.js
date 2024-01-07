@@ -11,7 +11,7 @@ String	        "string"
 Symbol	        "symbol"
 */
 
-// ****** Heap and Stack Memory
+// ****** Heap and Stack Memory 
 
 // Primitive dataType => Heap Memory
 // copy of original data

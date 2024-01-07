@@ -10,3 +10,11 @@ BigInt	        "bigint"
 String	        "string"	
 Symbol	        "symbol"
 */
+
+// ****** Heap and Stack Memory
+
+// Primitive dataType => Heap Memory
+// copy of original data
+
+// Non-Primitive datType => Stack Memory
+// reference of original data
